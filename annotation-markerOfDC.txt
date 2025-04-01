@@ -1,0 +1,21 @@
+Spranger_moDC	Spranger_DC2	Spranger__ISG+ DC	Spranger_migratory DC	Spranger_DC1	Spranger_pDC_A	Spranger_pDC_B	Zilionis_DC1	Zilionis_DC2	Zilionis_DC3 (mig. DC)	Zilionis_pDC	Zilionis_MonoDC	Bosteels_Inf-cDC2	Bosteels_non-mig. cDC2	Merad_maturation	Merad_regulator	Merad_TLR and adaptors	Merad_migration	Merad_mreg
+Lyz2	H2-DMb2	Cxcl10	Ccl5	Naaa	Cyp7b1	Ctsl	Xcr1	Mmp12	Fscn1	Cox6a2	Cd7	Cxcl9	Cd209a	Cd40	Cd274	Myd88	Ccr7	Ccr7
+Ccl4	Ltb	Ifit3	Ccr7	Cd24a	Cd7	Ly6d	Rab7b	Wfdc17	Ccl5	Ly6d	Cd209a	Cxcl10	Il1r2	Cd80	Pdcd1lg2	Ticam1	Myo1g	Fscn1
+Ccl9	Dab2	Ifit1bl1	Cd63	Irf8	Apod	Siglech	Pianp	Clec4n	Ccr7	Siglech	Atp1b1	Isg15	Klrd1	Cd83	Cd200	Tlr11	Cxcl16	Il4i1
+Vim	Ffar2	Rsad2	Fscn1	Id2	Fcgrt	Iglc3	Cxx1a	Il1r2	Cacnb3	Ccr9	Clec10a	Ifit3	Ifitm1	Cd86	Fas	Tlr2	Adam8	Socs2
+Cd209a	Ifngr1	Ifit1	Fabp5	Ppt1	Cd209d	Klk1	Cxx1b	Emb	Anxa3	Atp1b1	Cd209d	Isg20	H2-Oa	Relb	Aldh1a2	Tlr4	Icam1	Relb
+Lmna	H2-Oa	Ifit2	Ccl22	Cst3	Pi16	Ccr9	Ifi205	Ms4a6d	Tmem123	Ly6c2	Klrd1	Ly6a	S100a4		Socs1	Tlr7	Fscn1	
+Ahnak	Cd72	Isg15	Serpinb6b	Rab7b	Itm2c	Slpi	Mnda	Dab2	Fabp5	Ly6c1	Flt3	Ms4a4c	Cfp		Socs2	Tlr9	Marcks	
+Ccl6	Ifitm1	Phf11d	Serpinb9	Xcr1	Lefty1	Cox6a2	Naaa	Mgl2	Epsti1	Ctsl	Dpp4	Rsad2	Ifitm2			Trl1	Marcksl1	
+S100a10	Il1r2	Ifit3b	Tbc1d4	Psap	Alox5	Gm21762	Sept3	Ccr1	Gyg	Bst2	Kmo	Ifit1	Gm2a			Trl3		
+Emp3	Klrd1	Isg20	AW112010	Wdfy4	Cdkn2d	Pltp	Stmn1	Ctsc	Samsn1	D13Ertd608e	Ybx3	Ifitm1	Clec10a			Trl5		
+Atf3	H2-Eb1	Usp18	Cacnb3	Sept3	Lgals1	Cd8b1	Gcsam	Il1b	Serpinb6b	Gm21762	Cd209e	Ifi205	Itgb7			Trl6		
+Emilin2	Clec4a3	Ifi204	Ramp3	Aif1	Tcf4	Lag3	Ppt1	Tmem33	Marcksl1	Ly6a	Gm5812	AA467197	Ifitm6			Trl8		
+Cd44	Cfp	Ly6a	Socs2	Plbd1	Ly6c2	Rpgrip1	Rab32	Rpp14	Tmem150c	Cd7	Bcl11a	Serpina3g	Napsa					
+Ccr2	Cd300c2	Ms4a4c	Tmem123	Ifi205	Slc44a2	Irf8	2810417H13Rik	Lilrb4	Pfkfb3	Klk1	Parp8	Ifi204	Mdh2					
+Fos	Ciita	Fcgr1	Samsn1	Batf3	Cdk2ap2	Hsd11b1	Cadm1	Ifitm1	Glipr2	Tex2	Cnp	Ifi47	Plac8					
+Plec	H2-Ab1	Irf7	Gadd45b	Shtn1	Cd300a	Igkc	A530099J19Rik	Emc7	Ccl22	Sell	Irf8	Zbp1	S100a6					
+Pid1	Fgr	Ifi205	Bcl2a1b	BC028528	Cfp	Lair1	Plekho2	Socs3	Fam177a	Pacsin1	Btla	Ccnd2	Limd2					
+Ier2	H2-Aa	Slfn4	Cxcl16	Cldnd1	Slc7a5	Smim5	Wdfy4	Rnf130	Tbc1d4	Plac8	Fbl	Mndal	Gsn					
+Hspa1a	Limd2	Fgl2	Rgs1	Mrpl42	Cd200r1	Gm30211	Cd36	Clec7a	Tmcc3	Lair1	H2-DMb2	Ifitm3	H2-DMb2					
+Trf	Clec4a1	Phf11b	Il4i1	Gatm	AC140186.1	Rnase6	Tlr3	Fosl2	Akap2	Smim5	Lmo1	Irf7	Ckb					

@@ -1,0 +1,25 @@
+Description	p.adjust	celltype	condition
+lipid transport	0.03324966	migDC1	GF
+lymphocyte mediated immunity	0.03193035	migDC1	GF
+wound healing	0.02152606	migDC1	SPF
+tissue remodeling	0.00367192	migDC1	SPF
+negative regulation of cell activation	0.000781556	migDC1	SPF
+neutrophil chemotaxis	0.000362669	migDC1	SPF
+regulation of inflammatory response	5.14001E-07	migDC1	SPF
+positive regulation of leukocyte proliferation	0.0096855	cDC1	GF
+positive regulation of cell projection organization	0.07638767	cDC1	GF
+negative regulation of inflammatory response	0.006640607	cDC1	GF
+positive regulation of immune effector process	0.01076117	cDC1	GF
+chemotaxis	0.01076117	cDC1	GF
+positive regulation of cell activation	0.01076117	cDC1	GF
+positive regulation of gtpase activity	0.000232492	cDC1	GF
+leukocyte proliferation	0.002936068	cDC1	GF
+lymphocyte mediated immunity	0.005042376	cDC1	GF
+cell junction assembly	0.004719878	cDC1	GF
+positive regulation of response to biotic stimulus	0.000175523	cDC1	GF
+gobp_mitotic_dna_replication	9.02247E-05	cDC1	GF
+reactome_dna_replication	4.53568E-05	cDC1	GF
+reactome_mitotic_g1_phase_and_g1_s_transition	1.52337E-05	cDC1	GF
+hallmark_g2m_checkpoint	4.44471E-08	cDC1	GF
+response to virus	0.02750284	cDC1	SPF
+negative regulation of response to external stimulus	0.003920073	cDC1	SPF
