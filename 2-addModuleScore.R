@@ -33,6 +33,20 @@ colnames(DC.proj@meta.data)
 ids <- grep('DC',colnames(DC.proj@meta.data))
 colnames(DC.proj@meta.data)[ids] <- substring(colnames(DC.proj@meta.data)[ids], 1, nchar(colnames(DC.proj@meta.data)[ids]) - 1)
 FeaturePlot(DC.proj, feature = colnames(DC.proj@meta.data)[ids])
+#FigureS3H heatmap####
+cdc1 <- subset(DC.proj,subset=celltype=='cDC1')
+DimPlot(cdc1,label = T)
+DefaultAssay(cdc1) <- 'RNA'
+cdc1 <- FindVariableFeatures(cdc1)
+cdc1 <- ScaleData(cdc1,features = rownames(cdc1))
+marker.all.cdc1 <- FindAllMarkers(cdc1)
+topG <- marker.all.cdc1[marker.all.cdc1$p_val_adj < 0.01& 
+                          marker.all.cdc1$avg_log2FC>1&marker.all.cdc1$pct.1>0.1,] %>%
+  group_by(cluster) %>% top_n(n = 15, avg_log2FC) %>% as.data.frame()
+table(topG$cluster)
+DoHeatmap(subset(cdc1,downsample=200),features = unique(topG[order(topG$cluster),]$gene))
+DoHeatmap(cdc1,features = unique(topG[order(topG$cluster),]$gene),
+          group.colors = c("#9ECAE1", "#6BAED6", "#08519C", "#FB9A99", "#E31A1C"))
 #The results of GO and GSEA were produced in 1-geneFunctionalAnnotation.R
 #Figure3E and S3I selected terms to show AMS####
 dat <- as.data.frame(fread('gene_function_terms_AMS.txt'))
